@@ -1,1 +1,1 @@
-# CURA Fall-Detection-System (Graduation Project)
+# CURA: Fall-Detection-System (Graduation Project)
